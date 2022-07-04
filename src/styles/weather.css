@@ -1,0 +1,24 @@
+.weather{
+    margin: 180px 450px;
+    color: #000;
+    border-radius: 10%;
+    box-shadow: 13px 5px 15px 8px#000;
+    font-family: 'Lobster', cursive;
+}
+
+.weather img{
+    font-size: 10px;
+    background-color: gray;
+    border-radius: 50% ;
+}
+
+.weather button{
+    font-size: 15px;
+    border-radius: 25%;
+    background-color: #000;
+    color: white;
+}
+
+.weather h5{
+    
+}
